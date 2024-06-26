@@ -1,6 +1,6 @@
-@Entry
+@Entry({ routeName:'LoginPage' })
 @Component
-struct Login {
+export struct LoginPage {
   build() {
     Row() {
       Column() {

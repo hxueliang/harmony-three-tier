@@ -43,6 +43,10 @@
           ]
         }
       ]
+    },
+    {
+      "name": "utils",
+      "srcPath": "./commons/utils",
     }
   ]
 }

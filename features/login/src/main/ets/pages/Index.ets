@@ -1,13 +1,14 @@
 @Entry
 @Component
-struct Index {
+struct Login {
   build() {
     Row() {
       Column() {
-        Text('products层')
+        Text('features层')
           .fontSize(40)
           .fontWeight(FontWeight.Bold)
-        Text('phone模块【hap包】')
+
+        Text('login模块【hsp包】')
           .fontSize(40)
           .fontWeight(FontWeight.Bold)
       }
